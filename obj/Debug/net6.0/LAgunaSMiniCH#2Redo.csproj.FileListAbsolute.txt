@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\bin\Debug\net6.0\LAgunaSMiniCH#2Redo.exe
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\bin\Debug\net6.0\LAgunaSMiniCH#2Redo.deps.json
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\bin\Debug\net6.0\LAgunaSMiniCH#2Redo.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\bin\Debug\net6.0\LAgunaSMiniCH#2Redo.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\bin\Debug\net6.0\LAgunaSMiniCH#2Redo.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\refint\LAgunaSMiniCH#2Redo.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\LAgunaSMiniCH#2Redo.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\obj\Debug\net6.0\ref\LAgunaSMiniCH#2Redo.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/samlaguna/Documents/Level1/LAgunaSMiniCH#2Redo/LAgunaSMiniCH#2Redo.csproj": {}
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\\LAgunaSMiniCH#2Redo.csproj": {}
   },
   "projects": {
-    "/Users/samlaguna/Documents/Level1/LAgunaSMiniCH#2Redo/LAgunaSMiniCH#2Redo.csproj": {
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\\LAgunaSMiniCH#2Redo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/samlaguna/Documents/Level1/LAgunaSMiniCH#2Redo/LAgunaSMiniCH#2Redo.csproj",
+        "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\\LAgunaSMiniCH#2Redo.csproj",
         "projectName": "LAgunaSMiniCH#2Redo",
-        "projectPath": "/Users/samlaguna/Documents/Level1/LAgunaSMiniCH#2Redo/LAgunaSMiniCH#2Redo.csproj",
-        "packagesPath": "/Users/samlaguna/.nuget/packages/",
-        "outputPath": "/Users/samlaguna/Documents/Level1/LAgunaSMiniCH#2Redo/obj/",
+        "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\\LAgunaSMiniCH#2Redo.csproj",
+        "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\https---github.com-SamuelLaguna-LagunaSMiniCH-2Redo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/samlaguna/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
